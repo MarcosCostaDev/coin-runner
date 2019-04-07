@@ -1,1 +1,1 @@
-to play this game [click here](https://marcoscostadev.github.io/first-Phaser-game/)
+to play this game [click here](https://marcoscostadev.github.io/coin-runner/)
